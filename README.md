@@ -1,2 +1,3 @@
 # git-lab2
 cursogit
+gitstatus
